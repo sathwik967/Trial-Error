@@ -1,4 +1,5 @@
 # Trial-Error
 My first repository
 <br>
-author-sathwik
+author-sathwik (Trial & Error)
+
